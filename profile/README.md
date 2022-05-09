@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to PESAKIT. The e-Payment Toolbox for designers, developers, engineers, hackers and anyone interested in building systems that integrates with mobile money payment systems in Tanzania.
+
+We are committed at building secure, reliable, easy to use and effective tools, infrastructures and frameworks around mobile money payments. Most of these tools are open sourced and free to use.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
